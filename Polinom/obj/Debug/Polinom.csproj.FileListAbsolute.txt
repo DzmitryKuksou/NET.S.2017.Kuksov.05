@@ -1,0 +1,5 @@
+D:\project c#\NOD\Polinom\bin\Debug\Polinom.dll
+D:\project c#\NOD\Polinom\bin\Debug\Polinom.pdb
+D:\project c#\NOD\Polinom\obj\Debug\Polinom.csprojResolveAssemblyReference.cache
+D:\project c#\NOD\Polinom\obj\Debug\Polinom.dll
+D:\project c#\NOD\Polinom\obj\Debug\Polinom.pdb

@@ -1,0 +1,9 @@
+D:\project c#\NOD\UnitTestNOD\bin\Debug\UnitTestNOD.dll
+D:\project c#\NOD\UnitTestNOD\bin\Debug\UnitTestNOD.pdb
+D:\project c#\NOD\UnitTestNOD\bin\Debug\NODclass.dll
+D:\project c#\NOD\UnitTestNOD\bin\Debug\nunit.framework.dll
+D:\project c#\NOD\UnitTestNOD\bin\Debug\NODclass.pdb
+D:\project c#\NOD\UnitTestNOD\bin\Debug\nunit.framework.xml
+D:\project c#\NOD\UnitTestNOD\obj\Debug\UnitTestNOD.csprojResolveAssemblyReference.cache
+D:\project c#\NOD\UnitTestNOD\obj\Debug\UnitTestNOD.dll
+D:\project c#\NOD\UnitTestNOD\obj\Debug\UnitTestNOD.pdb

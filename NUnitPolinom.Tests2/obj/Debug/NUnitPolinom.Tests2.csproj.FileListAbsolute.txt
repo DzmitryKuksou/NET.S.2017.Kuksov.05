@@ -1,0 +1,9 @@
+D:\project c#\NOD\NUnitPolinom.Tests2\bin\Debug\NUnitPolinom.Tests2.dll
+D:\project c#\NOD\NUnitPolinom.Tests2\bin\Debug\NUnitPolinom.Tests2.pdb
+D:\project c#\NOD\NUnitPolinom.Tests2\bin\Debug\nunit.framework.dll
+D:\project c#\NOD\NUnitPolinom.Tests2\bin\Debug\Polinom.dll
+D:\project c#\NOD\NUnitPolinom.Tests2\bin\Debug\Polinom.pdb
+D:\project c#\NOD\NUnitPolinom.Tests2\bin\Debug\nunit.framework.xml
+D:\project c#\NOD\NUnitPolinom.Tests2\obj\Debug\NUnitPolinom.Tests2.csprojResolveAssemblyReference.cache
+D:\project c#\NOD\NUnitPolinom.Tests2\obj\Debug\NUnitPolinom.Tests2.dll
+D:\project c#\NOD\NUnitPolinom.Tests2\obj\Debug\NUnitPolinom.Tests2.pdb

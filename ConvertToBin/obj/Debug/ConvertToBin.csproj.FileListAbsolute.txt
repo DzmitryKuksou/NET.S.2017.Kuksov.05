@@ -1,0 +1,5 @@
+D:\project c#\NOD\ConvertToBin\bin\Debug\ConvertToBin.dll
+D:\project c#\NOD\ConvertToBin\bin\Debug\ConvertToBin.pdb
+D:\project c#\NOD\ConvertToBin\obj\Debug\ConvertToBin.csprojResolveAssemblyReference.cache
+D:\project c#\NOD\ConvertToBin\obj\Debug\ConvertToBin.dll
+D:\project c#\NOD\ConvertToBin\obj\Debug\ConvertToBin.pdb

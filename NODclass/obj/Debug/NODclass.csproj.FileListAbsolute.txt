@@ -1,0 +1,5 @@
+D:\project c#\NOD\NODclass\bin\Debug\NODclass.dll
+D:\project c#\NOD\NODclass\bin\Debug\NODclass.pdb
+D:\project c#\NOD\NODclass\obj\Debug\NODclass.csprojResolveAssemblyReference.cache
+D:\project c#\NOD\NODclass\obj\Debug\NODclass.dll
+D:\project c#\NOD\NODclass\obj\Debug\NODclass.pdb
