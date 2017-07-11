@@ -13,7 +13,7 @@ namespace ConvertToBin
         /// Converting To Binanry
         /// </summary>
         /// <param name="number">number</param>
-        /// <returns>Binary in </returns>
+        /// <returns>Binary string</returns>
         public static string ConvertToBin(this double number)
         {
             BitArray bits = new BitArray(BitConverter.GetBytes(number));
