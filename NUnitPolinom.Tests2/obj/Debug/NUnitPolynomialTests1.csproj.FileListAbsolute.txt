@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\GitHub\day005\NUnitPolinom.Tests2\bin\Debug\NUnitPolinom.Tests2.dll
+C:\Users\User\Desktop\GitHub\day005\NUnitPolinom.Tests2\bin\Debug\NUnitPolinom.Tests2.pdb
+C:\Users\User\Desktop\GitHub\day005\NUnitPolinom.Tests2\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\GitHub\day005\NUnitPolinom.Tests2\bin\Debug\Polynomial.dll
+C:\Users\User\Desktop\GitHub\day005\NUnitPolinom.Tests2\bin\Debug\Polynomial.pdb
+C:\Users\User\Desktop\GitHub\day005\NUnitPolinom.Tests2\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\GitHub\day005\NUnitPolinom.Tests2\obj\Debug\NUnitPolynomialTests1.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GitHub\day005\NUnitPolinom.Tests2\obj\Debug\NUnitPolinom.Tests2.dll
+C:\Users\User\Desktop\GitHub\day005\NUnitPolinom.Tests2\obj\Debug\NUnitPolinom.Tests2.pdb

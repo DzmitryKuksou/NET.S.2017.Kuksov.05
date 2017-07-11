@@ -3,3 +3,8 @@ D:\project c#\NOD\ConvertToBin\bin\Debug\ConvertToBin.pdb
 D:\project c#\NOD\ConvertToBin\obj\Debug\ConvertToBin.csprojResolveAssemblyReference.cache
 D:\project c#\NOD\ConvertToBin\obj\Debug\ConvertToBin.dll
 D:\project c#\NOD\ConvertToBin\obj\Debug\ConvertToBin.pdb
+C:\Users\User\Desktop\GitHub\day005\ConvertToBin\bin\Debug\ConvertToBin.dll
+C:\Users\User\Desktop\GitHub\day005\ConvertToBin\bin\Debug\ConvertToBin.pdb
+C:\Users\User\Desktop\GitHub\day005\ConvertToBin\obj\Debug\ConvertToBin.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GitHub\day005\ConvertToBin\obj\Debug\ConvertToBin.dll
+C:\Users\User\Desktop\GitHub\day005\ConvertToBin\obj\Debug\ConvertToBin.pdb

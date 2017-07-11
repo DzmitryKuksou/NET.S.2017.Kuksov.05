@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\GitHub\day005\Polynomial\bin\Debug\Polynomial.dll
+C:\Users\User\Desktop\GitHub\day005\Polynomial\bin\Debug\Polynomial.pdb
+C:\Users\User\Desktop\GitHub\day005\Polynomial\obj\Debug\Polynomial.dll
+C:\Users\User\Desktop\GitHub\day005\Polynomial\obj\Debug\Polynomial.pdb
+C:\Users\User\Desktop\GitHub\day005\Polynomial\obj\Debug\Polynomial.csprojResolveAssemblyReference.cache

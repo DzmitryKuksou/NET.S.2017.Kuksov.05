@@ -7,3 +7,12 @@ D:\project c#\NOD\NUnit.Tests1\bin\Debug\ConvertToBin.pdb
 D:\project c#\NOD\NUnit.Tests1\bin\Debug\nunit.framework.xml
 D:\project c#\NOD\NUnit.Tests1\obj\Debug\NUnit.Tests1.dll
 D:\project c#\NOD\NUnit.Tests1\obj\Debug\NUnit.Tests1.pdb
+C:\Users\User\Desktop\GitHub\day005\NUnit.Tests1\bin\Debug\NUnit.Tests1.dll
+C:\Users\User\Desktop\GitHub\day005\NUnit.Tests1\bin\Debug\NUnit.Tests1.pdb
+C:\Users\User\Desktop\GitHub\day005\NUnit.Tests1\bin\Debug\ConvertToBin.dll
+C:\Users\User\Desktop\GitHub\day005\NUnit.Tests1\bin\Debug\nunit.framework.dll
+C:\Users\User\Desktop\GitHub\day005\NUnit.Tests1\bin\Debug\ConvertToBin.pdb
+C:\Users\User\Desktop\GitHub\day005\NUnit.Tests1\bin\Debug\nunit.framework.xml
+C:\Users\User\Desktop\GitHub\day005\NUnit.Tests1\obj\Debug\NUnitConvertToBin.Tests.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\GitHub\day005\NUnit.Tests1\obj\Debug\NUnit.Tests1.dll
+C:\Users\User\Desktop\GitHub\day005\NUnit.Tests1\obj\Debug\NUnit.Tests1.pdb

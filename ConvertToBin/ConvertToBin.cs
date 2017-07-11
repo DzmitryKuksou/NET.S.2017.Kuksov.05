@@ -3,38 +3,28 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Collections;
 
 namespace ConvertToBin
 {
     public static class ConvertToBinary
     {
-        public static string FloatToBin(this double number)
+        /// <summary>
+        /// Converting To Binanry
+        /// </summary>
+        /// <param name="number">number</param>
+        /// <returns>Binary in </returns>
+        public static string ConvertToBin(this double number)
         {
-            int[] array = new int[sizeof(int) * 4];
-            double a = 0.12313;
-
-            return a.ToString();
-
+            BitArray bits = new BitArray(BitConverter.GetBytes(number));
+            return ToString(bits);
         }
-        private static string DecToBin(int number)
+        private static string ToString(BitArray arr)
         {
-            if (number >= 0)
-            {
-                int maxBit = 32;
-                string result = string.Empty;
-                int[] resultArray = new int[32];
-                for (; number > 0; number /= 2)
-                {
-                    int i = number % 2;
-                    resultArray[--maxBit] = i;
-                }
-                for (int i = 0; i < resultArray.Length; i++)
-                {
-                    result += resultArray[i].ToString();
-                }
-                return result;
-            }
-            else return "";
+            StringBuilder str = new StringBuilder(arr.Length);
+            for (int i = arr.Length - 1; i >= 0; i--)
+                str.Append(arr[i] == true ? '1' : '0');
+            return str.ToString();
         }
-        }
+    }
 }
