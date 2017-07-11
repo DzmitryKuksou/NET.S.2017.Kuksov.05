@@ -19,6 +19,11 @@ namespace ConvertToBin
             BitArray bits = new BitArray(BitConverter.GetBytes(number));
             return ToString(bits);
         }
+        /// <summary>
+        /// convert array of bit to string
+        /// </summary>
+        /// <param name="arr">array of bits</param>
+        /// <returns>string of bits</returns>
         private static string ToString(BitArray arr)
         {
             StringBuilder str = new StringBuilder(arr.Length);
